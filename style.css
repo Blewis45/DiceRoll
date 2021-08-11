@@ -3,3 +3,23 @@
 button {
   cursor: pointer;
 }
+
+#graph{
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+
+
+}
+
+.dieDiv{
+  background-color: gray;
+  height:300px;
+  flex-basis:100px;
+
+}
+.barDiv
+{
+  height: 200px;
+  background-color: green;
+}
